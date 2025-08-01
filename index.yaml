@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.28.0
+    created: "2025-08-02T05:33:09.5348642+08:00"
+    description: Helm chart create nginx in k8s
+    digest: a02be64be57d43f341509eda305ed779c2673309c9c6a088e88d00ec2bf3d4bf
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-02T05:33:09.5268699+08:00"
